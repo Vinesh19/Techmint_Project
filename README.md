@@ -1,8 +1,9 @@
 How to run the project:-
 
 1- In gitbash use "git clone" command to clone the repository.
+(git clone https://github.com/Vinesh19/Techmint_Project.git)
 
-2- cd directory-app
+2- cd Techmint_Project
 
 3- Use node to install the npm packages and react router dom "npm install"
 
